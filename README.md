@@ -177,7 +177,7 @@ footer{
 
     <br>
 
-    <a href="https://wa.me/6283170783831?text=Halo%20Warung%20Makan%20Prima%20Rasa,%20saya%20ingin%20memesan%20makanan."
+    <a href="https://wa.me/+6282144408331?text=Halo%20Warung%20Makan%20Prima%20Rasa,%20saya%20ingin%20memesan%20makanan."
     class="btn">
     📱 Pesan via WhatsApp
     </a>

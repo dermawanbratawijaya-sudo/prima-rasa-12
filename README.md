@@ -187,7 +187,7 @@ footer{
     <h3>Warung Makan Prima Rasa</h3>
     <p>📍 waingapu, Nusa Tenggara Timur</p>
     <p>📞 0821-4440-8331</p>
-    <p>© 2026 Warung Makan Prima Rasa. All Rights Reserved.</p>
+    <p>© 2014 Warung Makan Prima Rasa.</p>
 </footer>
 
 </body>
